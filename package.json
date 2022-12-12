@@ -4,7 +4,7 @@
   "description": "Flexmoney_Assignment",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "npm start index.js"
   },
   "author": "",
   "license": "ISC",
