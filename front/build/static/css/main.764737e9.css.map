@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.764737e9.css","mappings":"AAGA,QAEI,QAAU,CAEV,MAAQ,CAHR,iBAAiB,CAEjB,OAEJ,CAEA,QACI,SACJ","sources":["styles.css"],"sourcesContent":["\r\n\r\n\r\n.footer {\r\n    position:absolute;\r\n    bottom:0px;\r\n    right:0px;\r\n    left:0px;\r\n}\r\n\r\n.errMsg {\r\n    color: red;\r\n}"],"names":[],"sourceRoot":""}
